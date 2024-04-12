@@ -5,7 +5,7 @@
 2. 进入windows电脑中的“命令提示符”，输入“pip install python-pptx”，安装PPT的相关库，安装完成后退出。
 ![image](https://github.com/XiGabe/-PPT-/assets/139198887/f5f54ba7-750e-4c82-8656-d4963b77bb18)
 
-4. 打开程序，根据注释修改各项参数。
+4. 打开程序“叠化PPT代码自动生成程序.py”，根据注释修改各项参数。
 ![12![1280X1280](https://github.com/XiGabe/-PPT-/assets/139198887/fd9650e3-4c5c-402f-905c-4cca7fc60329)
 80X1280](https://github.com/XiGabe/-PPT-/assets/139198887/9ec9d3e8-81ec-42fb-a1af-6f5824bc3a51)
 ![1280X1280](https://github.com/XiGabe/-PPT-/assets/139198887/2d339585-3612-4263-acba-a22d8f8a62e8)
